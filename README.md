@@ -38,3 +38,10 @@ PHP foi a primeira linguagem de programação com a qual tive contato e é sem d
 Projetada para fornecer uma maneira simples e eficaz de rastrear e gerenciar pacotes enviados por serviços de entrega. Além disso, a aplicação oferece uma API RESTful, protegida pelo Laravel Sanctum, que permite aos desenvolvedores integrar facilmente funcionalidades de rastreamento de pacotes em seus próprios aplicativos e sistemas.
 
 Para saber mais sobre este projeto e acessar a documentação [clique aqui](/PHP/Rastreio/README.md).
+
+### 2. Site e ranking pvp e pacote de scripts (Codeigniter 3 + Bootstrap)
+
+Código originalmente desenvolvido em 2018 como um projeto pessoal enquanto participava de um projeto de servidor privado de Perfect World.
+Oferece uma gama completa de funcionalidades relacionadas a rankings pvp (player vs player) entre guilds e pve, além de funções para entrega de recompensas.
+
+Para saber mais sobre este projeto e acessar a documentação [clique aqui](https://github.com/frankduque/Perfect-World---Site---Ranking).
