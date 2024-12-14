@@ -37,7 +37,7 @@ PHP foi a primeira linguagem de programação com a qual tive contato e é sem d
 
 Projetada para fornecer uma maneira simples e eficaz de rastrear e gerenciar pacotes enviados por serviços de entrega. Além disso, a aplicação oferece uma API RESTful, protegida pelo Laravel Sanctum, que permite aos desenvolvedores integrar facilmente funcionalidades de rastreamento de pacotes em seus próprios aplicativos e sistemas.
 
-Para saber mais sobre este projeto e acessar a documentação [clique aqui](/PHP/Rastreio/README.md).
+Para saber mais sobre este projeto e acessar a documentação [clique aqui](https://github.com/frankduque/PackageTracking).
 
 ### 2. Site e ranking pvp e pacote de scripts (Codeigniter 3 + Bootstrap)
 
